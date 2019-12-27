@@ -1,0 +1,27 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
+  <packaging>jar</packaging>
+
+  <name>ant.project.name</name>
+  <description>description</description>
+  
+  <licenses>
+    <license>
+      <name>The Unlicense</name>
+      <url>http://unlicense.org/UNLICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <name>Christopher Wellons</name>
+      <email>mosquitopsu@gmail.com</email>
+      <url>http://nullprogram.com</url>
+      <timezone>-5</timezone>
+    </developer>
+  </developers>
+</project>
